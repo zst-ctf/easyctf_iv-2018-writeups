@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="easyctf2018_starman2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/easyctf2018_starman2_jar</output-path>
+    <root id="archive" name="easyctf2018_starman2.jar">
+      <element id="module-output" name="easyctf2018_starman2" />
+    </root>
+  </artifact>
+</component>
